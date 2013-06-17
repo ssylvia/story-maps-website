@@ -49,7 +49,7 @@ pmgConfig.rightLinks = [
 	},
 	// LINK 3
 	{
-		title: "> Maps by the Esri community",
+		title: "> Maps by the community",
 		url: 'http://storymaps.esri.com/partnerstories'
 	},
 	// LINK 4

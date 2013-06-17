@@ -6,7 +6,7 @@
 pmgConfig.siteTitle = "";
 
 // SITE HEADING. USED ON HOME PAGE
-pmgConfig.siteHeading = "Maps by the Esri community";
+pmgConfig.siteHeading = "Maps by the community";
 
 // SITE INTRO TEXT. USED ON HOME PAGE
 pmgConfig.siteIntro = "More and more organizations are creating their own maps and adapting storytelling templates to tell their stories. This rotating gallery features some of the most interesting of these uses. If you've developed your own story maps, please let us know!";
