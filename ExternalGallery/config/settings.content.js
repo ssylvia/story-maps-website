@@ -99,7 +99,7 @@ pmgConfig.rightContent = "Story maps combine intelligent Web maps with Web appli
 // ADDITIONAL CONTENT. BELOW LINKS
 
 pmgConfig.rightHeading2 = "Contact us"; // REMOVE TO NOT SHOW
-pmgConfig.rightContent2 = "Email us at <a href='mailto:storymaps@esri.com'>storymaps@esri.com</a>"; // REMOVE TO NOT SHOW
+pmgConfig.rightContent2 = "<a href='http://forums.arcgis.com/forums/264-Story-Maps'>> Story Maps Forum</a>"; // REMOVE TO NOT SHOW
 
 /*------------------------------------*/
 // BOTTOM FOOTER
